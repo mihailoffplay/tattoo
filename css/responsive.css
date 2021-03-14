@@ -422,8 +422,135 @@
 
 @media screen and (max-width: 480px) 
 {
+    .header
+    {
+        width: 100%;
+    }
+
+    .menu_item
+    {
+        font-size: 28px;
+    }
+    .main-title
+    {
+        width: 90%;
+    }
+
+    .banner
+    {
+        width: 100%;
+    }
+    
+    .line
+    {
+        width: 100%;
+    }
+
+    .title-text
+    {
+        width: 250px;
+    }
+    .title-image
+    {
+        margin: 20px auto;
+    }
+    .time {
+    display: block;
+    }
+    
+    .time_photo {
+    width: 100%;
+    }
+    
+    .time_info {
+    width: 100%;
+    }
+
+    .burger
+    {
+        right: 40px;
+    }
+
+    .info
+    {
+        width: 100%;
+    }
+    
     .footer_title 
     {
     font-size: 36px;
     }
+}
+
+@media screen and (max-width: 320px)
+{
+    .header
+    {
+        width: 100%;
+    }
+
+    .menu_item
+    {
+        font-size: 28px;
+    }
+    .main-title
+    {
+        width: 90%;
+    }
+
+    .banner
+    {
+        width: 100%;
+    }
+    
+    .line
+    {
+        width: 100%;
+    }
+
+    .title-text
+    {
+        width: 250px;
+    }
+    .title-image
+    {
+        margin: 20px auto;
+    }
+    .time {
+    display: block;
+    }
+    
+    .time_photo {
+    width: 100%;
+    }
+    
+    .time_info {
+    width: 100%;
+    }
+
+    .burger
+    {
+        right: 40px;
+    }
+
+    .info
+    {
+        width: 100%;
+    }
+
+    .modal
+    {
+        width: 280px;
+    }
+
+    .modal_text
+    {
+        width: 250px;
+    }
+
+    .modal_button
+    {
+        width: 270px;
+    }
+
 }
